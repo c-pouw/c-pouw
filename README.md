@@ -2,10 +2,12 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/caspouw/" alt="LinkedIn">
 	   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a>
+    <a href="https://scholar.google.com/citations?user=JoBuJXgAAAAJ&hl=nl&oi=ao" alt="Google Scholar Badge">
+	   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge" /></a>
     <a href="https://www.researchgate.net/profile/Caspar-Pouw-2" alt="ResearchGate">
 	   <img src="https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=for-the-badge" /></a>
     <a href="https://orcid.org/0000-0002-3041-4533" alt="ORCID">
-	   <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=for-the-badge" /></a>
+	   <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=for-the-badge" /></a>	
 </p>
 
 <!--
